@@ -1,0 +1,18 @@
+c:\users\saad ali\documents\visual studio 2013\Projects\TypeScriptCalculator\TypeScriptCalculator\bin\TypeScriptCalculator.dll.config
+c:\users\saad ali\documents\visual studio 2013\Projects\TypeScriptCalculator\TypeScriptCalculator\bin\TypeScriptCalculator.dll
+c:\users\saad ali\documents\visual studio 2013\Projects\TypeScriptCalculator\TypeScriptCalculator\bin\TypeScriptCalculator.pdb
+c:\users\saad ali\documents\visual studio 2013\Projects\TypeScriptCalculator\TypeScriptCalculator\obj\Debug\TypeScriptCalculator.csprojResolveAssemblyReference.cache
+c:\users\saad ali\documents\visual studio 2013\Projects\TypeScriptCalculator\TypeScriptCalculator\obj\Debug\TypeScriptCalculator.dll
+c:\users\saad ali\documents\visual studio 2013\Projects\TypeScriptCalculator\TypeScriptCalculator\obj\Debug\TypeScriptCalculator.pdb
+C:\Users\My Work\Downloads\TypeScriptCalculator\TypeScriptCalculator\TypeScriptCalculator\bin\TypeScriptCalculator.dll.config
+C:\Users\My Work\Downloads\TypeScriptCalculator\TypeScriptCalculator\TypeScriptCalculator\bin\TypeScriptCalculator.dll
+C:\Users\My Work\Downloads\TypeScriptCalculator\TypeScriptCalculator\TypeScriptCalculator\bin\TypeScriptCalculator.pdb
+C:\Users\My Work\Downloads\TypeScriptCalculator\TypeScriptCalculator\TypeScriptCalculator\obj\Debug\TypeScriptCalculator.csprojResolveAssemblyReference.cache
+C:\Users\My Work\Downloads\TypeScriptCalculator\TypeScriptCalculator\TypeScriptCalculator\obj\Debug\TypeScriptCalculator.dll
+C:\Users\My Work\Downloads\TypeScriptCalculator\TypeScriptCalculator\TypeScriptCalculator\obj\Debug\TypeScriptCalculator.pdb
+C:\Users\Saad Ali\Desktop\TypeScriptCalculator\TypeScriptCalculator\bin\TypeScriptCalculator.dll.config
+C:\Users\Saad Ali\Desktop\TypeScriptCalculator\TypeScriptCalculator\bin\TypeScriptCalculator.dll
+C:\Users\Saad Ali\Desktop\TypeScriptCalculator\TypeScriptCalculator\bin\TypeScriptCalculator.pdb
+C:\Users\Saad Ali\Desktop\TypeScriptCalculator\TypeScriptCalculator\obj\Debug\TypeScriptCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Saad Ali\Desktop\TypeScriptCalculator\TypeScriptCalculator\obj\Debug\TypeScriptCalculator.dll
+C:\Users\Saad Ali\Desktop\TypeScriptCalculator\TypeScriptCalculator\obj\Debug\TypeScriptCalculator.pdb

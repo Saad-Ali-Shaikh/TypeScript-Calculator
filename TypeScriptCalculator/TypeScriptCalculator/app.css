@@ -1,0 +1,39 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+span {
+    font-style: italic;
+}
+
+.divCalculator {
+
+}
+
+.itemRow {
+    
+}
+
+input {
+    width: 228px;
+    height: 50px;
+}
+
+.txtInput {
+    text-align: right;
+}
+
+.txtInput2 {
+    height: 25px;
+    text-align: right;
+}
+
+
+.button-calc {
+    width: 75px;
+    height: 50px;
+    margin-top: 10px;
+}
+.button-calc1 {
+    height: 40px !important;
+}
